@@ -1,0 +1,7 @@
+.DS_Store
+Tutorial/qt_tutorial
+*.app*
+*.qmake.stash
+Makefile
+*.o
+*.pro.user
